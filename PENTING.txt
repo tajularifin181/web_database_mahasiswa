@@ -1,0 +1,1 @@
+link: http://localhost/web_database_mahasiswa/
